@@ -8,7 +8,7 @@ The goal of this project is to perform an exploratory data analysis on Chicago c
 First I inspected and cleaned the datasets. Then, used time series to analyze annual and monthly trends and data visualization to analyze spacial trends. I used correlation matrices to identify relational trends regarding arrests proportions and income as well as arrest proportions and location. I also fit a model using time series analysis to predict future robberies in a specific neighborhood of Chicago.  
 
 **Files** 
-* Chicago_Crime_Analysis.ipynb - R Markdown file containing R code with 
+* Chicago_Crime_Analysis.ipynb - Jupyter Notebook file containing all code and analysis for the 3 crime files
  
 # Features
 * Jupyter Notebook
